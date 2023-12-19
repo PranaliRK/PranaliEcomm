@@ -1,0 +1,19 @@
+.sec1{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: -10px;
+}
+
+.image{
+    object-fit: contain;
+    width: max-content;
+    height: max-content;
+}
+
+.button{
+    background: black;
+    color: white;
+    border: 1px solid whitesmoke;
+}
